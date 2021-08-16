@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    min-width: 100vh;
+    height: auto;
+   
+}
+
+.container{
+    width: 1070px;
+    height: 500px;
+    margin: auto;
+     background: rgb(92, 88, 88);
+     margin-top: 70px;
+    display: flex;
+     position: relative;
+   
+}
+
+.box1{
+    width: 30px;
+    height: 30px;
+   background:rgb(184, 114, 114);
+    margin: 200px 200px;
+   
+}
+.box2{
+    width: 30px;
+    height: 30px;
+    margin: 200px 200px; 
+    background: rgb(190, 56, 56);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
