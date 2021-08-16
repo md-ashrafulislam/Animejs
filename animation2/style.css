@@ -14,17 +14,17 @@ html, body {
     width: 1070px;
     height: 500px;
     margin: auto;
-     background: rgb(92, 88, 88);
-     margin-top: 70px;
+    background: rgb(92, 88, 88);
+    margin-top: 70px;
     display: flex;
-     position: relative;
+    position: relative;
    
 }
 
 .box1{
     width: 30px;
     height: 30px;
-   background:rgb(184, 114, 114);
+    background:rgb(184, 114, 114);
     margin: 200px 200px;
    
 }

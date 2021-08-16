@@ -17,22 +17,27 @@ html, body {
     background: rgb(92, 88, 88);
     margin-top: 70px;
     display: flex;
-    position: relative;
-   
+    flex-direction: column;
+    justify-content: center;
+     
 }
 
-.box1{
+
+.box{
     width: 30px;
     height: 30px;
-    background:rgb(184, 114, 114);
-    margin: 200px 200px;
-   
+    background:rgb(119, 119, 69);
+    margin: 10px 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative; 
 }
+
 .box2{
     width: 30px;
     height: 30px;
-    margin: 200px 200px; 
-    background: rgb(190, 56, 56);
+    background: rgb(212, 212, 4);
     position: absolute;
     top: 0;
     left: 0;
